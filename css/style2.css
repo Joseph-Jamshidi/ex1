@@ -1,0 +1,30 @@
+body{
+    background-color: #F4F7FC;
+    margin-top: 20px;
+}
+.card{
+    text-align: center;
+    margin-top: 20px;
+}
+.table{
+    margin-top: 20px;
+    background-color: white;
+    align-content: center;
+}
+h4{
+    margin-bottom: 0;
+}
+.bottomcards{
+    text-align: left;
+}
+.bottomcards p{
+    margin-bottom: 0;
+}
+.col-2{
+    text-align: center;
+    padding: 0;
+}
+h4 i{
+    color: white;
+    padding-top: 17px;
+}
