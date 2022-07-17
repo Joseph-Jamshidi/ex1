@@ -11,6 +11,15 @@ body{
     background-color: white;
     align-content: center;
 }
+.table th , .table td{
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
 h4{
     margin-bottom: 0;
 }
@@ -28,3 +37,4 @@ h4 i{
     color: white;
     padding-top: 17px;
 }
+
