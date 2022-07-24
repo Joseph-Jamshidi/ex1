@@ -1,0 +1,15 @@
+body{
+    direction: rtl;
+    text-align: center;
+}
+.container-fluid{
+    background-color: #A5D4DE;
+    margin: 16px 26px 0 25px;
+    padding: 6px 33px 4px 16px;
+}
+.nav-link{
+    background-color: #425C81;
+    color: white;
+    transition: all 0.3s ease-out;
+    border-radius: 10px;
+}
